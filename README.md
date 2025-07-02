@@ -180,7 +180,7 @@ Silakan buat pull request untuk kontribusi. Untuk perubahan besar, buka issue te
 
 ---
 
-                                                                                 MANUAL BOOK (Panduan Penggunaan)
+## MANUAL BOOK (Panduan Penggunaan)
 
 ## A. Deskripsi Singkat Aplikasi
 Aplikasi ini adalah web berbasis Laravel yang menyediakan fitur konversi dan kompresi file. Pengguna dapat mengunggah file untuk dikonversi (gambar, dokumen, PDF, atau dari URL) dan mengompres file menjadi ZIP.
