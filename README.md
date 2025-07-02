@@ -177,12 +177,10 @@ Zenmazip adalah aplikasi web untuk konversi file dan download media dari berbaga
 ## Kontribusi
 Silakan buat pull request untuk kontribusi. Untuk perubahan besar, buka issue terlebih dahulu untuk diskusi.
 
-## Lisensi
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ---
 
-# Manual Book (Panduan Penggunaan)
+                                                                                 MANUAL BOOK (Panduan Penggunaan)
 
 ## A. Deskripsi Singkat Aplikasi
 Aplikasi ini adalah web berbasis Laravel yang menyediakan fitur konversi dan kompresi file. Pengguna dapat mengunggah file untuk dikonversi (gambar, dokumen, PDF, atau dari URL) dan mengompres file menjadi ZIP.
